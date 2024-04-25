@@ -1,26 +1,25 @@
 # ChatBotW-Json
 
-Esse código é um simples chatbot implementado em Python, que utiliza um arquivo JSON como base de conhecimento para responder perguntas dos usuários. Segue uma explicação breve do que cada parte faz e como você pode usá-lo.
+### This code is a simple chatbot implemented in Python, which uses a JSON file as a knowledge base to answer user questions. Here's a brief explanation of what each part does and how you can use it.
 
-Importação de Bibliotecas:
-        O código importa as bibliotecas json e get_close_matches da biblioteca padrão do Python. json é usada para lidar com arquivos JSON, enquanto get_close_matches é usada para encontrar perguntas similares às fornecidas pelos usuários.
-Função carregarconhecimento:
-        Esta função recebe o caminho de um arquivo JSON como entrada e retorna os dados contidos nesse arquivo como um dicionário Python.
-Função salvarconhecimento:
-        Esta função recebe um caminho de arquivo e um dicionário como entrada e salva o dicionário no arquivo JSON especificado.
-Função identifica_melhor:
-        Esta função recebe uma pergunta do usuário e uma lista de perguntas conhecidas. Ela usa a função get_close_matches para encontrar a pergunta mais similar à fornecida pelo usuário.
-Função resposta_para_pergunta:
-        Esta função recebe uma pergunta e a base de conhecimento. Ela procura a pergunta na base de conhecimento e retorna a resposta correspondente, se existir.
-Função chat_bot:
-        Essa é a função principal do chatbot. Ela carrega a base de conhecimento, inicia o loop de conversação com o usuário e responde às perguntas ou aprende novas respostas se não souber responder.
-Como utilizar:
-        Para usar esse código no Google Colaboratory, você precisa ter um arquivo JSON com a base de conhecimento e fazer o upload desse arquivo para o ambiente do Colab.
-Você pode adicionar uma célula de código no Colab e colar esse código.
-Certifique-se de que o arquivo JSON da base de conhecimento está no mesmo diretório do seu notebook do Colab.
-Execute as células do notebook, e o chatbot será iniciado.
-Você pode interagir com o chatbot fornecendo perguntas e recebendo respostas correspondentes. Se o chatbot não souber responder, ele pedirá que você ensine uma nova resposta.
-
+## Importing Libraries:
+The code imports the json and get_close_matches libraries from the standard Python library. json is used to handle JSON files, while get_close_matches is used to find questions similar to those provided by users.
+## Function loadknowledge:
+This function takes the path to a JSON file as input and returns the data contained in that file as a Python dictionary.
+## Function saveknowledge:
+This function takes a file path and a dictionary as input and saves the dictionary to the specified JSON file.
+## Function identify_best:
+This function takes a user question and a list of known questions as input. It uses the get_close_matches function to find the most similar question to the one provided by the user.
+## Function answer_to_question:
+This function takes a question and the knowledge base as input. It looks for the question in the knowledge base and returns the corresponding answer, if it exists.
+## Function chat_bot:
+This is the main function of the chatbot. It loads the knowledge base, starts the conversation loop with the user, and responds to questions or learns new answers if it doesn't know how to respond.
+## How to use:
+To use this code in Google Colaboratory, you need to have a JSON file with the knowledge base and upload that file to the Colab environment.
+You can add a code cell in Colab and paste this code.
+Make sure the JSON file of the knowledge base is in the same directory as your Colab notebook.
+Run the notebook cells, and the chatbot will be started.
+You can interact with the chatbot by providing questions and receiving corresponding answers. If the chatbot doesn't know how to respond, it will ask you to teach it a new answer.
 
 
 
