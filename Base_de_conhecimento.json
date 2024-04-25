@@ -1,0 +1,112 @@
+{
+  "perguntas": [
+    {
+      "pergunta": "Oi",
+      "resposta": "Olá, como posso te ajudar hoje?"
+    },
+    {
+      "pergunta": "Como você está?",
+      "resposta": "Estou bem, obrigado por perguntar!"
+    },
+    {
+      "pergunta": "Qual é o seu nome?",
+      "resposta": "Meu nome é ChatGMS."
+    },
+    {
+      "pergunta": "Como você está?",
+      "resposta": "Estou bem, obrigado por perguntar!"
+    },
+    {
+      "pergunta": "O que você faz?",
+      "resposta": "Eu sou um chatbot projetado para ajudar a responder suas perguntas relacionadas a IA e PLN."
+    },
+    {
+      "pergunta": "Quem te criou?",
+      "resposta": "Eu fui criado por três grandes nomes da programação, são eles: Guilherme Pires, Mell Matsuda e Samuel Eichner."
+    },
+    {
+      "pergunta": "Qual é o sentido da vida?",
+      "resposta": "Essa é uma pergunta filosófica difícil. Alguns acreditam que o sentido da vida é encontrar significado e felicidade.\n     Segundo o livro 'O Guia do Mochileiro das Galáxias', a resposta é 42. Mas, sinceramente, ainda estamos tentando descobrir a pergunta certa."
+    },
+    {
+      "pergunta": "Como está o seu dia?",
+      "resposta": "O meu dia é sempre bom quando estou ajudando você!"
+    },
+    {
+      "pergunta": "O que você gosta de fazer nas horas vagas?",
+      "resposta": "Como sou um programa de computador, não tenho hobbies, mas estou sempre pronto para ajudar. Como posso te ajudar hoje?"
+    },
+    {
+      "pergunta": "Como posso proteger minha privacidade online?",
+      "resposta": "Ótima pergunta! Algumas dicas incluem usar senhas fortes, ativar a autenticação de dois fatores e evitar compartilhar \n     informações pessoais em sites não confiáveis. Se precisar de mais orientações, estou aqui para ajudar!"
+    },
+    {
+      "pergunta": "Por que o programador fica sempre cansado?",
+      "resposta": "Porque ele está sempre caçando bugs!"
+    },
+    {
+      "pergunta": "Obrigado",
+      "resposta": "De nada! Se precisar de mais alguma coisa ou tiver alguma pergunta, sinta-se à vontade para perguntar. \n     Estou aqui para ajudar!"
+    },
+    {
+      "pergunta": "Como os métodos de PLN podem auxiliar equipes médicas, tais quais as de radiologia?",
+      "resposta": "Os métodos de PNL podem ajudar as equipes médicas, tais quais as de radiologia, em sistemas de apoio à decisão, além de melhorar \n     o gerenciamento dos dados médicos dos pacientes.\n\n     Fonte: López-Úbeda P, et al. Natural Language Processing in Radiology: Update on Clinical Applications. \n     J Am Coll Radiol. doi:10.1016/j.jacr.2022.06.016"
+    },
+    {
+      "pergunta": "Como os sistemas de PLN estão inseridos em contextos clínicos e de pesquisa?",
+      "resposta": "Os sistemas de PNL estão inseridos em uma ampla variedade de tarefas clínicas e de pesquisa importantes. Certas tarefas são \n     bem abordadas pelos sistemas existentes, enquanto outras permanecem como desafios abertos que apenas um pequeno número deles consegue \n     resolver, tais como a extracção de informação temporal ou a normalização de conceitos para terminologias padrão. \n\n     Fonte: Kreimeyer K, et al. Natural language processing systems for capturing and standardizing unstructured clinical information: A systematic review. \n     J Biomed Inform. doi:10.1016/j.jbi.2017.07.012"
+    },
+    {
+      "pergunta": "Fale brevemente sobre os sistemas de PLN e cite 3 áreas de pesquisa em que eles estão inseridos.",
+      "resposta": "Técnicas de processamento de linguagem natural são empregadas para extrair informações valiosas de narrativas clínicas, facilitando \n     a identificação automatizada de pacientes com características distintas e reduzindo a heterogeneidade metodológica em pesquisas sobre \n     alergia, asma e imunologia.\n\n     Fonte: Juhn Y, Liu H. Artificial intelligence approaches using natural language processing to advance EHR-based clinical research. \n     J Allergy Clin Immunol. doi:10.1016/j.jaci.2019.12.897"
+    },
+    {
+      "pergunta": "No contexto dos cuidados paliativos, para que os sistemas de PLN são usados?",
+      "resposta": "O tema mais frequente para qual os sistemas de PLN são usados são os de mortalidade e previsão de prognóstico. Também se \n     identifica uma tendência em que o processamento de linguagem natural é usado na análise de conversas clínicas sobre doenças \n     graves extraídas de gravações de áudio.\n\n     Fonte: Sarmet M, et al. The use of natural language processing in palliative care research: A scoping review. \n     Palliat Med. doi:10.1177/02692163221141969"
+    },
+    {
+      "pergunta": "Traga informações relevantes sobre sistemas de PLN usando a ferramenta MetaMap em relatórios patológicos.",
+      "resposta": "O processamento de linguagem natural (PNL) em relatórios patológicos, utilizando a ferramenta MetaMap, é uma área de pesquisa em andamento. \n     Desenvolvida pela National Library of Medicine, essa ferramenta mapeia textos biomédicos para o Metathesaurus do Unified Medical Language \n     System, aplicando tags específicas a termos clinicamente relevantes. Embora os resultados sejam inicialmente úteis, as tags carecem de \n     informações contextuais importantes. Os testes realizados em relatórios de patologia do laboratório interno do Henry Ford Health System \n     demonstraram uma precisão superior a 95% na extração de todos os tipos de biomarcadores, indicando que esse método representa um avanço \n     significativo na obtenção de informações contextuais de biomarcadores de alta qualidade.\n\n     Fonte: Holmes B, et al. Customizable Natural Language Processing Biomarker Extraction Tool. \n     JCO Clin Cancer Inform. doi:10.1200/CCI.21.00017"
+    },
+    {
+      "pergunta": "O que é Processamento de Linguagem Natural?",
+      "resposta": "O Processamento de Linguagem Natural (PNL) é uma subárea da inteligência artificial que se concentra na interação entre \n     computadores e linguagem humana.\n\n     Fonte: Lorena ALF de, Pinho MLS. A CONTRIBUIÇÃO DA PROGRAMAÇÃO NEUROLINGUÍSTICA PARA O EXERCÍCIO DA DOCÊNCIA NO ENSINO UNIVERSITÁRIO.\n     Repositório UFSC. Disponível em: repositorio.ufsc.br/bitstream/handle/123456789/135888/101_00030.pdf?sequence=1&isAllowed=y"
+    },
+    {
+      "pergunta": "Como os modelos de PNL funcionam?",
+      "resposta": "Os modelos de PNL utilizam algoritmos e técnicas para entender, interpretar e gerar linguagem humana de maneira semelhante à comunicação humana.\n\n     Fonte: Lorena ALF de, Pinho MLS. A CONTRIBUIÇÃO DA PROGRAMAÇÃO NEUROLINGUÍSTICA PARA O EXERCÍCIO DA DOCÊNCIA NO ENSINO UNIVERSITÁRIO.\n     Repositório UFSC. Disponível em: repositorio.ufsc.br/bitstream/handle/123456789/135888/101_00030.pdf?sequence=1&isAllowed=y"
+    },
+    {
+      "pergunta": "Quais são algumas aplicações práticas de PNL?",
+      "resposta": "PNL é usada em chatbots como eu, tradução automática, resumo de texto, análise de sentimentos, reconhecimento de fala e muito mais.\n\n     Fonte: Lorena ALF de, Pinho MLS. A CONTRIBUIÇÃO DA PROGRAMAÇÃO NEUROLINGUÍSTICA PARA O EXERCÍCIO DA DOCÊNCIA NO ENSINO UNIVERSITÁRIO.\n     Repositório UFSC. Disponível em: repositorio.ufsc.br/bitstream/handle/123456789/135888/101_00030.pdf?sequence=1&isAllowed=y"
+    },
+    {
+      "pergunta": "Como funciona a análise de sentimentos em PNL?",
+      "resposta": "A análise de sentimentos em PNL envolve a identificação e classificação das emoções expressas em um texto, geralmente como positivas, \n     negativas ou neutras.\n\n     Fonte: Gomes FP. Análise de Sentimentos: Uma Revisão Sistemática.\n     ULBRA Tocantins. Disponível em: ulbra-to.br/encoinfo/wp-content/uploads/2020/03/Gomes_et_al_2017_Análise_de_Sentimentos_-_Uma_Revisão_Sistemática.pdf"
+    },
+    {
+      "pergunta": "O que é Inteligência Artificial?",
+      "resposta": "Inteligência Artificial é um campo da ciência da computação que busca criar máquinas capazes de realizar tarefas que normalmente requerem \n     inteligência humana.\n\n     Fonte: Sichman JS. Inteligência Artificial e sociedade: avanços e riscos. \n     Estud av. Disponível em: doi.org/10.1590/s0103-4014.2021.35101.004"
+    },
+    {
+      "pergunta": "Quais são os principais tipos de aprendizado em IA?",
+      "resposta": "Os principais tipos de aprendizado em IA incluem aprendizado supervisionado, aprendizado não supervisionado e aprendizado por reforço.\n\n     Fonte: Sichman JS. Inteligência Artificial e sociedade: avanços e riscos. \n     Estud av. Disponível em: doi.org/10.1590/s0103-4014.2021.35101.004"
+    },
+    {
+      "pergunta": "Explique o conceito de aprendizado de máquina (ML).",
+      "resposta": "Aprendizado de máquina é uma abordagem em IA onde os sistemas podem aprender padrões e tomar decisões com base em dados, sem programação explícita.\n\n     Fonte: Paixão GM de M, et al. Machine Learning na Medicina: Revisão e Aplicabilidade. \n     Arq Bras Cardiol. Disponível em: doi.org/10.36660/abc.20200596"
+    },
+    {
+      "pergunta": "O que são redes neurais artificiais?",
+      "resposta": "Redes neurais artificiais são modelos computacionais inspirados no funcionamento do cérebro humano, usados em muitas tarefas de aprendizado \n     de máquina.\n\n     Fonte: Ferneda E. Redes neurais e sua aplicação em sistemas de recuperação de informação. \n     Ci Inf. Disponível em: doi.org/10.1590/S0100-19652006000100003"
+    },
+    {
+      "pergunta": "Quais são os desafios éticos em IA?",
+      "resposta": "Os desafios éticos em IA incluem preocupações sobre viés algorítmico, privacidade, automação de empregos, transparência e tomada de decisões \n     autônomas.\n\n     Fonte: Rossetti R, Angeluci A. Ética Algorítmica: questões e desafios éticos do avanço tecnológico da sociedade da informação. \n     Galáxia (São Paulo). Disponível em: doi.org/10.1590/1982-2553202150301"
+    },
+    {
+      "pergunta": "Como a IA pode ser aplicada na área da saúde?",
+      "resposta": "A IA na saúde pode ser usada para diagnósticos médicos, previsão de surtos, personalização de tratamentos e gerenciamento de \n     registros médicos.\n\n     Fonte: Lobo LC. Inteligência artificial, o Futuro da Medicina e a Educação Médica. \n     Rev bras educ med. Disponível em: doi.org/10.1590/1981-52712015v42n3RB20180115EDITORIAL1"
+    }
+  ]
+}
